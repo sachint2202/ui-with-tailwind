@@ -9,7 +9,7 @@ To get started with these components, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ui-with-tailwind.git
+git clone https://github.com/sachint2202/ui-with-tailwind.git
 cd ui-with-tailwind
 ```
 
